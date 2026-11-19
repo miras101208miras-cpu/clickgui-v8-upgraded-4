@@ -1,0 +1,22 @@
+# Gradle build artifacts
+.gradle/
+.gradle-dist/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Java
+*.class
+hs_err_pid*
+replay_pid*
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

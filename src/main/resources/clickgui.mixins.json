@@ -1,0 +1,39 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.example.clickgui.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "FireOverlayMixin",
+    "FogColorMixin",
+    "FreeLookMixin",
+    "FreeLookCameraMixin",
+    "FovMixin",
+    "CameraClipMixin",
+    "OutlinesMixin",
+    "OutlinesColorMixin",
+    "ChamsMixin",
+    "NametagCancelMixin",
+    "BlockOutlineMixin",
+    "InteractionAccessor",
+    "HeldItemRendererMixin",
+    "InGameHudMixin",
+    "BossBarHudMixin",
+    "ClientPlayerMixin",
+    "ItemEntityRendererMixin",
+    "WorldRenderMixin",
+    "ParticlesFilterMixin",
+    "ClientWorldMixin",
+    "GameRendererBobMixin",
+    "SoundMuterMixin",
+    "WorldTimeMixin",
+    "HandledScreenAccessor",
+    "HandledScreenMixin",
+    "ChatHudMixin",
+    "WeatherRenderingMixin",
+    "ChatScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
